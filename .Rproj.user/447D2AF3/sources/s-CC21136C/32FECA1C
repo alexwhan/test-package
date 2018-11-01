@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1541039067839.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4101105330",
+    "id" : "32FECA1C",
+    "lastKnownWriteTime" : 1541039659,
+    "last_content_update" : 1541039659250,
+    "path" : "C:/projects/training/r/r-packages/test/tests/testthat/test_basic_mean.R",
+    "project_path" : "tests/testthat/test_basic_mean.R",
+    "properties" : {
+        "cursorPosition" : "10,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
